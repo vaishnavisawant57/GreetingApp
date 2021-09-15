@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Greeting App</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="create_the_card">Create Birthday Card</string>
+    <string name="input_hint_text">Vaishnavi</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="create_marriage_anniversary_card">Create Marriage Anniversary card</string>
+    <string name="happy_marriage_anniversary">Happy Marriage Anniversary</string>
+    <string name="share">Share</string>
+</resources>
